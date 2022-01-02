@@ -13,7 +13,7 @@ plotted as vertical lines.
 
 See the jupyter notebook for the full analysis and report
 [here](https://github.com/kriputest/covid-19-project/blob/main/covid-19.ipynb).
-Figures as .pdf are found in the [output
+Figures are found in the [output
 folder](https://github.com/kriputest/covid-19-project/tree/main/output).
 
 <img src="./output/fig_1.png" width="2400" />
