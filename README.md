@@ -16,4 +16,4 @@ See the jupyter notebook for the full analysis and report
 Figures as .pdf are found in the [output
 folder](https://github.com/kriputest/covid-19-project/tree/main/output).
 
-![](./output/fig_1.pdf)<!-- -->
+<img src="./output/fig_1.png" width="2400" />

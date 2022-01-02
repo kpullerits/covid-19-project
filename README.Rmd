@@ -10,5 +10,5 @@ Example figure below showing the seven day rolling mean of new cases and deaths 
 See the jupyter notebook for the full analysis and report [here](https://github.com/kriputest/covid-19-project/blob/main/covid-19.ipynb). Figures as .pdf are found in the [output folder](https://github.com/kriputest/covid-19-project/tree/main/output).
 
 ```{r, echo = FALSE}
-knitr::include_graphics("./output/fig_1.pdf")
+knitr::include_graphics("./output/fig_1.png")
 ```
