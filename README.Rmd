@@ -3,7 +3,7 @@ title: "COVID-19-project"
 output: github_document
 ---
 
-This repo contains analysis of COVID-19 data from the Nordic countries (Finland, Sweden, Denmark, Iceland and Norway). The code is written in Python using jupyter notebook. 
+This repo contains analysis of COVID-19 data from the Nordic countries (Finland, Sweden, Denmark, Iceland and Norway). The code is written in Python using Jupyter notebook. 
 
 Example figure below showing the seven day rolling mean of new cases and deaths as well as the country stringency index were plotted against time. The country stringency index is a measure of nine indicators such as school/workplace closures and travel bans. Chosen key events are also plotted as vertical lines. 
 
